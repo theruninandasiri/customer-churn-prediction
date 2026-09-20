@@ -15,3 +15,6 @@ Telco-style dataset is used.
 
 ## Deploy
 Push to GitHub, then create an app at share.streamlit.io pointing to `app.py`.
+
+## Live Link
+https://customer-churn-prediction-or3aljsqhfosy4vav9tzsy.streamlit.app/
